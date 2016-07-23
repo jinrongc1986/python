@@ -27,3 +27,4 @@ conn.close()
 end1=time.clock()
 total_time=end1-start1
 print (("总计花费%.2f秒时间,总共有%d个host热点（点击数超过100）")%(total_time,cnt_1))
+#testhaha
